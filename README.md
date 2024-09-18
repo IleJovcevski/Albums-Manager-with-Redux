@@ -67,4 +67,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+### Important notes:
+
+In order to properly run the project after installing it, you need to run 2 separate scripts in 2 separate teminals.
+npm run start:server - this will run the local JSON server,
+npm start or npm run start - this will run the frontend application
+localhost is hard coded to 3005, so keep that in mind
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
