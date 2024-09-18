@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "6922",
+      "name": "Elaine Mertz"
+    },
+    {
+      "id": "e62a",
+      "name": "Mr. Shang Tsung"
+    },
+    {
+      "id": "8352",
+      "name": "Snarky Jay"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "My best day",
+      "userId": 1
+    },
+    {
+      "id": "7858",
+      "userId": "1",
+      "title": "Miss Marvel Cosplay 2"
+    },
+    {
+      "id": "270f",
+      "userId": "6922",
+      "title": "Elegant Bronze Chips"
+    },
+    {
+      "id": "e99e",
+      "userId": "e62a",
+      "title": "Bespoke Steel Fish"
+    },
+    {
+      "id": "5811",
+      "userId": "1",
+      "title": "Refined Plastic Mouse"
+    },
+    {
+      "id": "1e90",
+      "userId": "8352",
+      "title": "Renamed Title"
+    },
+    {
+      "id": "2cae",
+      "userId": "e62a",
+      "title": "Tasty Bronze Pizza"
+    },
+    {
+      "id": "4d62",
+      "userId": "6922",
+      "title": "Riding on silver wings"
+    }
+  ],
+  "photos": [
+    {
+      "id": "0da4",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1510889349971968"
+    },
+    {
+      "id": "3fdd",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=877479912800256"
+    },
+    {
+      "id": "9545",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5610017463992320"
+    },
+    {
+      "id": "7731",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=8345084321857536"
+    },
+    {
+      "id": "00dd",
+      "albumId": "270f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1260122500235264"
+    },
+    {
+      "id": "15d3",
+      "albumId": "1e90",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6366129142366208"
+    },
+    {
+      "id": "113e",
+      "albumId": "1e90",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5456258970681344"
+    },
+    {
+      "id": "d4ef",
+      "albumId": "1e90",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6992358079987712"
+    },
+    {
+      "id": "d20d",
+      "albumId": "270f",
+      "url": "https://loremflickr.com/640/480?lock=5739990512304128"
+    },
+    {
+      "id": "2dd6",
+      "albumId": "270f",
+      "url": "https://picsum.photos/seed/wc02qHrJV0/640/480"
+    },
+    {
+      "id": "80e4",
+      "albumId": "2cae",
+      "url": "https://loremflickr.com/640/480?lock=2982438609354752"
+    },
+    {
+      "id": "8079",
+      "albumId": "2cae",
+      "url": "https://picsum.photos/seed/XlEF6Vi/640/480"
+    }
+  ]
+}
